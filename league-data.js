@@ -1,6 +1,6 @@
 window.CRL_DATA={
 season:2026,
-audit:{cup:"Picture-backed/audited through Las Vegas — October 28, 2026",oreilly:"Picture-backed/audited through Phoenix — October 22, 2026",trucks:"Picture-backed/audited through Darlington — October 23, 2026"},
+audit:{cup:"Picture-backed/audited through Las Vegas — October 28, 2026",oreilly:"Picture-backed/audited through Las Vegas — October 29, 2026",trucks:"Picture-backed/audited through Darlington — October 23, 2026"},
 standings:{
 cup:[["TURNERXGA",173],["KROB24R",159],["TATERTOT8188",154],["TWIZTIDS89T",152],["REDTOP1990",151],["RDR SILVER",150],["BLUBAHKA",145],["GLIZDADDYSR",143],["CRL CHEVYMAN",142],["CRL PARTY",127],["SR71A",124],["BTMILES92",118],["WOLFBLOOD704",114],["COWBOYNATION024",106],["PURE BRAD54",89],["GHOSTTHERACE28",88],["IMBLOODYCROWLEY",85],["CHASES GREEN",69]],
 oreilly:[["TWIZTIDS89T",154],["BIGDADDYONEJR",148],["BLUBAHKA",133],["GLIZDADDYSR",133],["TURNERXGA",130],["PURE BRAD54",121],["TATERTOT8188",118],["CRL CHEVYMAN",90],["KROB24R",59],["BTMILES92",53],["IMBLOODYCROWLEY",33],["SR71A",31],["WOLFBLOOD704",28]],
