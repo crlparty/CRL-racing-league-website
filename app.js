@@ -1,0 +1,1 @@
+const m=document.getElementById("menu"),n=document.querySelector("nav");m.onclick=()=>n.classList.toggle("open");n.querySelectorAll("a").forEach(a=>a.onclick=()=>n.classList.remove("open"));document.querySelectorAll(".tabs button").forEach(b=>b.onclick=()=>{b.parentElement.querySelectorAll("button").forEach(x=>x.classList.remove("active"));b.classList.add("active")});
