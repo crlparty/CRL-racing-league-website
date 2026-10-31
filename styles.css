@@ -3,3 +3,5 @@
 .cal-event.completed{opacity:.38;filter:grayscale(.75);}
 
 .cal-holiday{margin:4px 0;padding:5px;border:1px dashed rgba(255,255,255,.34);border-radius:6px;background:rgba(255,255,255,.06)}.cal-holiday b,.cal-holiday span{display:block}.cal-holiday b{font-size:8px;text-transform:uppercase;color:#d8e2da}.cal-holiday span{font-size:9px;font-weight:900;line-height:1.15}@media(max-width:600px){.cal-holiday{padding:2px 1px}.cal-holiday b{font-size:6px}.cal-holiday span{font-size:7px;overflow-wrap:anywhere}}
+
+.rule-search{position:sticky;top:68px;z-index:14;box-shadow:0 8px 20px rgba(0,0,0,.28)}mark.rule-match{background:#fff;color:#071009;padding:1px 2px;border-radius:3px}mark.rule-match.active{outline:3px solid var(--g);background:var(--g)}@media(max-width:600px){.rule-search{top:68px}.rule-search-row{display:grid;grid-template-columns:1fr 1fr}.rule-search-row input{grid-column:1/-1}.rule-search-row #clearRuleSearch{grid-column:1/-1}}
